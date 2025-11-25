@@ -1,4 +1,6 @@
-💫Lost and Found Tracker – Project Statement:-
+💫Lost and Found Tracker 
+
+💡–: Project Statement:-💡
 
 In schools, colleges, offices, and public places, people often misplace items or find belongings that don’t belong to them. However, there is usually no simple or organized way to record these items. Because of this, many lost items remain unclaimed, and finders have no idea whom to return them to.
 This project aims to create a simple tool where users can enter details of lost or found items and check if any item matches. This helps connect lost items with their rightful owners.
